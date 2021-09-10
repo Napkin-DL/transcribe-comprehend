@@ -1,2 +1,8 @@
 Phrase	IPA	SoundsLike	DisplayAs
-엘레	e l l ɛ		엘레
+엘지		elgi	LG
+엘지	ŋ e l tɕ wi		LG
+엘지		엘지	LG
+삼성	s a m s ʌ ŋ		Samsung
+삼성		samseong	Samsung
+삼성		삼성	Samsung
+엘레	e l l ɛ		엘르
